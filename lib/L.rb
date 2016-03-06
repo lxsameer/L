@@ -4,4 +4,4 @@ module L
 
 end
 
-require 'L/kernal'
+require 'L/kernel'
